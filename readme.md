@@ -4,7 +4,7 @@
 
 # 生成新的 docker 镜像
 ``` bash
-docker build -t backendless/bl-server-szd:latest .
+docker build -t backendless/bl-server-szd:5.7.3.3.pro .
 ```
 // docker rm $(docker ps -aq) 
 
